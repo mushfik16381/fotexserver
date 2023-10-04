@@ -4,15 +4,13 @@ require("dotenv").config();
 const app = express();
 const port = process.env.PORT || 5000;
 
-
 // middleware
 app.use(cors());
 app.use(express.json());
 
-
 const server = app.listen(port, () => {
-    console.log(`Server is running: ${port}`);
-  });
-  
-  
-  module.exports = { app };
+  console.log(`Server is running: ${port}`);
+});
+
+// asjhdkjahdjkh
+module.exports = { app };
