@@ -26,14 +26,4 @@ module.exports = { app };
 // kjdd
 // kjdd
 
-//my new push
-//my new push
-//my new push
-//my new push
-//my new push
-//my new push
-//my new push
 
-// main brach push
-// main brach push
-// main brach push
