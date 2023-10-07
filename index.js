@@ -15,10 +15,3 @@ const server = app.listen(port, () => {
 // asjhdkjahdjkh
 // asjhdkjahdjkh
 module.exports = { app };
-// kjdd
-// kjdd
-// kjdd
-// kjdd
-// kjdd
-// kjdd
-// kjdd
